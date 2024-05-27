@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="taskList_tarea1.views.DetailsList"
+             NavigationPage.HasNavigationBar="False">
+
+    <StackLayout BackgroundColor="#fff">
+
+        <Image Source="listDetails.png" WidthRequest="120" Margin="0, 15"/>
+
+        <Label Text="Detalles de la Tarea" 
+            FontSize="22"
+            HorizontalOptions="Center"
+            FontAttributes="Bold"
+            TextColor="#000"
+            Margin="0,10"/>
+
+
+        <StackLayout Margin="20, 15,15,5">
+            <Label Text="Nombre de la tarea" />
+            <Entry 
+             TextColor="Black"
+             x:Name="txt_taskName"
+               Text="{Binding name}"
+          />
+        </StackLayout>
+
+
+        <StackLayout Margin="20, 0,15,30">
+            <Label Text="Decripción de la tarea"/>
+            <Editor 
+             HeightRequest="100"  
+             TextColor="Black"
+             x:Name="txt_taskDescription"
+              Text="{Binding description}"/>
+        </StackLayout>
+
+
+
+        <StackLayout Orientation="Horizontal"
+                  HorizontalOptions="Center">
+            <Button Text="Eliminar"
+                 TextTransform="None"
+                  CornerRadius="10"
+                 FontSize="Small" 
+                 BackgroundColor="#a20808"
+                 TextColor="#fff"
+                 WidthRequest="160"
+                 x:Name="btn_eliminar"
+                  Clicked="btn_eliminar_Clicked"
+                
+                 />
+
+            <Button Text="Editar"
+                 TextTransform="None"
+                 CornerRadius="10"
+                 FontSize="Small" 
+                 BackgroundColor="#045643"
+                 TextColor="#fff"
+                 WidthRequest="160"
+                 x:Name="btn_editTask"
+                 Clicked="btn_editTask_Clicked"
+                
+                  />
+        </StackLayout>
+
+
+        <Button Text="Regresar"
+                   TextTransform="None"
+                    CornerRadius="10"
+                   FontSize="Small" 
+                   BackgroundColor="#030979"
+                   TextColor="#fff"
+                   WidthRequest="160"
+                   Margin="15,0"
+                   x:Name="btn_regresar"
+                Clicked="btn_regresar_Clicked"
+      
+        />
+
+    </StackLayout>
+
+</ContentPage>

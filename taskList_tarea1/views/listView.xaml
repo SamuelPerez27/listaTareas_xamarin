@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="taskList_tarea1.views.listView"
+             NavigationPage.HasNavigationBar="False">
+
+    <StackLayout BackgroundColor="#fff">
+
+        <Label Text="Lista de Tareas" 
+               FontSize="22"
+               HorizontalOptions="Center"
+               FontAttributes="Bold"
+               TextColor="#000"
+               Margin="0,20"/>
+        
+
+        <Frame VerticalOptions="FillAndExpand" Margin="20,10,20,5"  CornerRadius="25" HasShadow="False" BackgroundColor="#83838b">
+
+            <ListView  x:Name="listViewTask" ItemSelected="OnItemSelected">
+
+
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell >
+                            <Frame CornerRadius="5"
+                               BackgroundColor="LightGray" HasShadow="True"  >
+                                <StackLayout Orientation="Vertical" >
+                                    <Label Text="{Binding name}" TextColor="Black" FontSize="Small"/>
+                                 
+                                </StackLayout>
+                            </Frame>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+            
+            
+       
+        </Frame>
+        
+ 
+
+        <Button Text="Crear nueva tarea" 
+                TextTransform="None"
+                CornerRadius="10"
+                Margin="20, 18" 
+                FontSize="Small" 
+                BackgroundColor="#030979"
+                TextColor="#fff"
+                x:Name="btnCreateTask"
+                Clicked="btnCreateTask_Clicked"
+                />
+
+
+    </StackLayout>
+
+
+</ContentPage>

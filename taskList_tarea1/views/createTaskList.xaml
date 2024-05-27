@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="taskList_tarea1.views.createTaskList"
+             NavigationPage.HasNavigationBar="False">
+
+    <StackLayout BackgroundColor="#fff">
+
+        <Image Source="toDoList.png" WidthRequest="160"/>
+
+        <Label Text="Agregar Nueva Tarea" 
+               FontSize="22"
+               HorizontalOptions="Center"
+               FontAttributes="Bold"
+               TextColor="#000"
+               Margin="0,20"/>
+
+
+
+
+        <StackLayout Margin="20, 15,15,10">
+            <Label Text="Nombre de la tarea" />
+            <Entry 
+                TextColor="Black"
+                x:Name="txt_taskName"
+             />
+        </StackLayout>
+        
+
+        <StackLayout Margin="20, 0,15,50">
+            <Label Text="Decripción de la tarea"/>
+            <Editor 
+                HeightRequest="100"  
+                TextColor="Black"
+                x:Name="txt_taskDescription"/>
+        </StackLayout>
+
+
+
+        <StackLayout Orientation="Horizontal"
+                     HorizontalOptions="Center">
+            <Button Text="Regresar"
+                    TextTransform="None"
+                     CornerRadius="10"
+                    FontSize="Small" 
+                    BackgroundColor="#030979"
+                    TextColor="#fff"
+                    WidthRequest="160"
+                    x:Name="btn_regresar"
+                    Clicked="btn_regresar_Clicked"
+                    />
+
+            <Button Text="Agregar"
+                    TextTransform="None"
+                    CornerRadius="10"
+                    FontSize="Small" 
+                    BackgroundColor="#030979"
+                    TextColor="#fff"
+                    WidthRequest="160"
+                    x:Name="btn_addTask"
+                    Clicked="btn_addTask_Clicked"
+                     />
+        </StackLayout>
+
+    </StackLayout>
+
+
+
+</ContentPage>

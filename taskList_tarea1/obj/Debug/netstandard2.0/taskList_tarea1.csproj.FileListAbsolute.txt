@@ -1,0 +1,32 @@
+C:\Users\Samuel Perez\OneDrive\OneDrive - Universidad Iberoamericana\UNIBE\Cuatrimestre VII\Desarrllo de Aplicaciones de Dispositivos Moviles\taskList_tarea1\taskList_tarea1\bin\Debug\netstandard2.0\taskList_tarea1.deps.json
+C:\Users\Samuel Perez\OneDrive\OneDrive - Universidad Iberoamericana\UNIBE\Cuatrimestre VII\Desarrllo de Aplicaciones de Dispositivos Moviles\taskList_tarea1\taskList_tarea1\bin\Debug\netstandard2.0\taskList_tarea1.dll
+C:\Users\Samuel Perez\OneDrive\OneDrive - Universidad Iberoamericana\UNIBE\Cuatrimestre VII\Desarrllo de Aplicaciones de Dispositivos Moviles\taskList_tarea1\taskList_tarea1\bin\Debug\netstandard2.0\ref\taskList_tarea1.dll
+C:\Users\Samuel Perez\OneDrive\OneDrive - Universidad Iberoamericana\UNIBE\Cuatrimestre VII\Desarrllo de Aplicaciones de Dispositivos Moviles\taskList_tarea1\taskList_tarea1\bin\Debug\netstandard2.0\taskList_tarea1.pdb
+C:\Users\Samuel Perez\OneDrive\OneDrive - Universidad Iberoamericana\UNIBE\Cuatrimestre VII\Desarrllo de Aplicaciones de Dispositivos Moviles\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\taskList_tarea1.csproj.AssemblyReference.cache
+C:\Users\Samuel Perez\OneDrive\OneDrive - Universidad Iberoamericana\UNIBE\Cuatrimestre VII\Desarrllo de Aplicaciones de Dispositivos Moviles\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\taskList_tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Perez\OneDrive\OneDrive - Universidad Iberoamericana\UNIBE\Cuatrimestre VII\Desarrllo de Aplicaciones de Dispositivos Moviles\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Samuel Perez\OneDrive\OneDrive - Universidad Iberoamericana\UNIBE\Cuatrimestre VII\Desarrllo de Aplicaciones de Dispositivos Moviles\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Samuel Perez\OneDrive\OneDrive - Universidad Iberoamericana\UNIBE\Cuatrimestre VII\Desarrllo de Aplicaciones de Dispositivos Moviles\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\taskList_tarea1.AssemblyInfoInputs.cache
+C:\Users\Samuel Perez\OneDrive\OneDrive - Universidad Iberoamericana\UNIBE\Cuatrimestre VII\Desarrllo de Aplicaciones de Dispositivos Moviles\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\taskList_tarea1.AssemblyInfo.cs
+C:\Users\Samuel Perez\OneDrive\OneDrive - Universidad Iberoamericana\UNIBE\Cuatrimestre VII\Desarrllo de Aplicaciones de Dispositivos Moviles\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\taskList_tarea1.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Perez\OneDrive\OneDrive - Universidad Iberoamericana\UNIBE\Cuatrimestre VII\Desarrllo de Aplicaciones de Dispositivos Moviles\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Samuel Perez\OneDrive\OneDrive - Universidad Iberoamericana\UNIBE\Cuatrimestre VII\Desarrllo de Aplicaciones de Dispositivos Moviles\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\taskList_tarea1.dll
+C:\Users\Samuel Perez\OneDrive\OneDrive - Universidad Iberoamericana\UNIBE\Cuatrimestre VII\Desarrllo de Aplicaciones de Dispositivos Moviles\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\refint\taskList_tarea1.dll
+C:\Users\Samuel Perez\OneDrive\OneDrive - Universidad Iberoamericana\UNIBE\Cuatrimestre VII\Desarrllo de Aplicaciones de Dispositivos Moviles\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\taskList_tarea1.pdb
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\bin\Debug\netstandard2.0\taskList_tarea1.deps.json
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\bin\Debug\netstandard2.0\taskList_tarea1.dll
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\bin\Debug\netstandard2.0\ref\taskList_tarea1.dll
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\bin\Debug\netstandard2.0\taskList_tarea1.pdb
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\taskList_tarea1.csproj.AssemblyReference.cache
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\taskList_tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\taskList_tarea1.AssemblyInfoInputs.cache
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\taskList_tarea1.AssemblyInfo.cs
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\taskList_tarea1.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\taskList_tarea1.dll
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\refint\taskList_tarea1.dll
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\taskList_tarea1.pdb
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\views\listView.xaml.g.cs
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\views\createTaskList.xaml.g.cs
+C:\Users\Samuel Perez\Desktop\taskList_tarea1\taskList_tarea1\obj\Debug\netstandard2.0\views\DetailsList.xaml.g.cs
